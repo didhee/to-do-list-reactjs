@@ -2,7 +2,7 @@
 # Todo list made with React
 
 ## Copyright (c) 2021 Dafetta Onoriode 
-## The code and media present in this repository remains an intellectual property of Okereke Chinweotito and therefore cannot be copied, modified, redistributed, sublicenced or used as a template without due permission from the author
+## The code and media present in this repository remains an intellectual property of Dafetta Onoriode and therefore cannot be copied, modified, redistributed, sublicenced or used as a template without due permission from the author
 
 
 # Getting Started with Create React App
